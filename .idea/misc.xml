@@ -3,6 +3,7 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
+<<<<<<< HEAD
   <component name="IdProvider" IDEtalkID="B30C774A352C4B666F4FC5F7B47741BC" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="Android API 16 Platform" project-jdk-type="Android SDK">
     <output url="file://$PROJECT_DIR$/out" />
@@ -23,5 +24,10 @@
       </state>
     </states>
   </component>
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="Android API 19 Platform" project-jdk-type="Android SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+>>>>>>> 10c97d2b5d92c96dfc8bd60cefe28b6b1c2c997c
 </project>
 

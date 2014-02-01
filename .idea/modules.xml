@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LetsMeat2.iml" filepath="$PROJECT_DIR$/LetsMeat2.iml" />
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/facebook/facebook.iml" filepath="$PROJECT_DIR$/facebook/facebook.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/facebook/facebook1.iml" filepath="$PROJECT_DIR$/facebook/facebook1.iml" />
+>>>>>>> 10c97d2b5d92c96dfc8bd60cefe28b6b1c2c997c
     </modules>
   </component>
 </project>
