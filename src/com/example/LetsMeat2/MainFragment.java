@@ -17,7 +17,7 @@ import com.facebook.widget.LoginButton;
  * Created by Sruti on 1/31/14.
  */
 public class MainFragment extends android.support.v4.app.Fragment{
-
+/*
     private static final String TAG = "MainFragment";
 
     private Session.StatusCallback callback = new Session.StatusCallback() {
@@ -74,7 +74,7 @@ public class MainFragment extends android.support.v4.app.Fragment{
     public void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
         uiHelper.onSaveInstanceState(outState);
-    }
+    } */
 
     @Override
     public View onCreateView(LayoutInflater inflater,
@@ -82,19 +82,19 @@ public class MainFragment extends android.support.v4.app.Fragment{
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.main, container, false);
 
-       LoginButton authButton = (LoginButton) view.findViewById(R.id.authButton);
-        authButton.setFragment(this);
+      /* LoginButton authButton = (LoginButton) view.findViewById(R.id.authButton);
+        authButton.setFragment(this); */
 
         return view;
     }
-//comment
-
+//comment /Xw8VbmfTHfKLqj2yZUjyTCfc64=
+/*
     private void onSessionStateChange(Session session, SessionState state, Exception exception) {
         if (state.isOpened()) {
             Log.i(TAG, "Logged in...");
         } else if (state.isClosed()) {
             Log.i(TAG, "Logged out...");
         }
-    }
+    }*/
 
 }
