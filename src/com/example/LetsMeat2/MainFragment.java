@@ -82,12 +82,12 @@ public class MainFragment extends android.support.v4.app.Fragment{
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.main, container, false);
 
-        LoginButton authButton = (LoginButton) view.findViewById(R.id.authButton);
+       LoginButton authButton = (LoginButton) view.findViewById(R.id.authButton);
         authButton.setFragment(this);
 
         return view;
     }
-
+//comment
 
     private void onSessionStateChange(Session session, SessionState state, Exception exception) {
         if (state.isOpened()) {
