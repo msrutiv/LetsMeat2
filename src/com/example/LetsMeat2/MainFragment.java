@@ -26,7 +26,6 @@ public class MainFragment extends android.support.v4.app.Fragment{
             onSessionStateChange(session, state, exception);
         }
     };
-}
 
     private UiLifecycleHelper uiHelper;
 
@@ -98,4 +97,4 @@ public class MainFragment extends android.support.v4.app.Fragment{
         }
     }
 
-
+}
